@@ -1,16 +1,28 @@
-### Hi there 👋
+Hi 👋, I'm Shashank Tiwari
+A passionate Full Stack Developer from India.
+Shashan-k08
 
-<!--
-**Shashan-k08/Shashan-k08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shashan-k08
 
-Here are some ideas to get you started:
+📫 How to reach me shashanktiwari3509@gmail.com
+Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Languages and Tools:
+bootstrap c cplusplus css3 express git html5 javascript mongodb nodejs postman react
+
+tushar-glitch
+
+ tushar-glitch
+
+tushar-glitch
+
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHu
