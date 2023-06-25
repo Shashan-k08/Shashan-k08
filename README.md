@@ -12,7 +12,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shashan-k08&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)
 
-- 📫 How to reach me **shashanktiwari3509@gmail.com**
+- 📫 How to reach me **shashanktiwari3508@gmail.com**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.shashank__) 
 
