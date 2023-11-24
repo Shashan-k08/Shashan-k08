@@ -9,10 +9,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shashan-k08" alt="shashan-k08" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shashan-k08&show_icons=true&locale=en" alt="Shashan-k08" /></p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shashan-k08&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shashan-k08&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashan-k08&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=shashan-k08&theme=radical&hide_border=false)<br/>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashan-k08&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shashan-k08&limit=5&theme=dark&combine_all_yearly_contributions=true)
